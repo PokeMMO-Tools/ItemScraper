@@ -1,0 +1,3 @@
+[submodule "pokemmo"]
+	path = pokemmo
+	url = https://github.com/PokeMMO-Tools/pokemmo-headless
